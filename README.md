@@ -1,4 +1,4 @@
-# Shopmate (REACTJS - Context and Reducers):</h1>
+# Shopmate (REACTJS - Context and Reducers):
 
 ## Overview:
 
