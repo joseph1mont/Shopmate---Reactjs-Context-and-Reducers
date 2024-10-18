@@ -21,5 +21,5 @@ useReducers: Perform actions on Globale state, allow us to manage complex state 
 
 ### Screenshot:
 
-![Shopmate1](src/assets/images/sc1.jpg "Shopmate-Ecommerce1")
-![Shopmate2](src/assets/images/sc2.jpg "Shopmate-Ecommerce2")
+![Shopmate1](src/assets/sc1.jpg "Shopmate-Ecommerce1")
+![Shopmate2](src/assets/sc2.jpg "Shopmate-Ecommerce2")
